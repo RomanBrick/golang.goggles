@@ -1,5 +1,5 @@
 ! name: Golang
-! description: Search for Golanders
+! description: Search for Golanders.
 ! public: true
 ! author: Roman Brick
 
@@ -31,20 +31,20 @@ $boost=4,site=digitalocean.com
 $boost=4,site=freecodecamp.org
 $boost=4,site=medium.com
 $boost=4,site=danluu.com
-$boost=4,site=kalzumeus.com
-$boost=4,site=signal.org
-$boost=4,site=antirez.com
-$boost=4,site=jacquesmattheij.com
-$boost=4,site=chris-granger.com
+$boost=4,site=golangweekly.com
+$boost=4,site=shula88.hashnode.dev
+$boost=4,site=blog.jetbrains.com
+$boost=4,site=septrabbit.hashnode.dev
+$boost=4,site=blog.dotenx.com
 $boost=4,site=letsencrypt.org
-$boost=4,site=teslamotors.com
+$boost=4,site=thecloudodyssey.com
 $boost=4,site=lore.kernel.org
 $boost=4,site=frame.work
 $boost=4,site=righto.com
-$boost=4,site=troyhunt.com
+$boost=4,site=blog.cloudnativefolks.org
 $boost=4,site=sec.gov
-$boost=4,site=tesla.com
-$boost=4,site=keybase.io
+$boost=4,site=habr.com
+$boost=4,site=lr.hashnode.dev
 $boost=4,site=blender.org
 $boost=4,site=spacex.com
 $boost=4,site=susanjfowler.com
