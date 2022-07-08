@@ -1,5 +1,5 @@
 ! name: Golang
-! description: What my Goggle does
+! description: Search for Golanders
 ! public: true
 ! author: Roman Brick
 
@@ -26,11 +26,10 @@ $discard,site=pinterest.ru
 $discard,site=pinterestcareers.com
 /pinterest/$discard,site=instagram.com
 
-$boost=4,site=blog.samaltman.com
-$boost=4,site=paulgraham.com
-$boost=4,site=blog.rust-lang.org
-$boost=4,site=blog.ycombinator.com
-$boost=4,site=ciechanow.ski
+$boost=4,site=golang.works-hub.com
+$boost=4,site=digitalocean.com
+$boost=4,site=freecodecamp.org
+$boost=4,site=medium.com
 $boost=4,site=danluu.com
 $boost=4,site=kalzumeus.com
 $boost=4,site=signal.org
